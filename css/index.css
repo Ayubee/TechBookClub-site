@@ -3,9 +3,11 @@
 .header {
   padding-top: 3.2rem;
   padding-bottom: 8rem;
+  background-image: url("../img/pattern-light-bg.svg");
 }
 
 .hero {
+  background-image: url("../img/pattern-light-bg.svg");
 }
 .hero-container {
   display: flex;
@@ -30,25 +32,49 @@
   font-weight: 400;
 }
 .hero-btn {
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   margin-top: 3.2rem;
-  padding: 20px 64px 20px 24px;
+  padding: 20px 29px;
   border: 2px solid #062630;
   border-radius: 8px;
-  font-family: "Martian Mono";
+  font-family: var(--Text-Preset-Martian-mono-ff);
   font-weight: 600;
   font-size: 1.8rem;
   line-height: 1.27;
-  color: #062630;
+  color: var(--Neutral900);
+  background-color: var(--LightSalmon50);
 }
 .hero-info {
+  margin-top: 2rem;
 }
 .info-img {
+  width: 100%;
+  max-width: 110px;
 }
 .info-content {
+  width: 100%;
+  max-width: 388px;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
 }
+
+.left {
+  right: 35px;
+}
+
 .info-svg {
+  display: flex;
 }
 .info-stars {
+  /* margin-left: auto; */
 }
 .info-subtitle {
+}
+
+.hero-container-img {
+  margin-left: 6.4rem;
 }
