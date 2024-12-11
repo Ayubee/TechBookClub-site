@@ -2,7 +2,15 @@
   --Text-Preset-Martian-mono-ff: "Martian Mono";
   --Text-Preset-Inter-ff: "Inter";
 
-  --Text-Preset-lc: -2px;
+  --Text-Preset-two-lc: -2px;
+  --Text-Preset-one-lc: -1px;
+  --Text-Preset-zero-lc: -0.5px;
+
+  --Text-Preset-120-lh: 120%;
+  --Text-Preset-130-lh: 130%;
+  --Text-Preset-140-lh: 140%;
+  --Text-Preset-110-lh: 110%;
+
   /* colors */
   --Neutral900: #062630;
   --Neutral700: #385159;
@@ -22,13 +30,13 @@
   /* colors */
 
   --Text-Preset-one-fs: 6.2rem;
-  --Text-Preset-one-lh: 120%;
-  --Text-Preset-one-fw: 700;
+  --Text-Preset-two-fs: 5rem;
+  --Text-Preset-three-fs: 3.4rem;
+  --Text-Preset-four-fs: 2.4rem;
+  --Text-Preset-five-fs: 2rem;
+  --Text-Preset-six-fs: 1.8rem;
+  --Text-Preset-seven-fs: 1.4rem;
 
   --Text-Preset-one-m-fs: 3.8rem;
-  --Text-Preset-one-m-lh: 120%;
-  --Text-Preset-one-m-fw: 700;
-
-  --Text-Preset-two-fs: 5rem;
-  --Text-Preset-two-lh: 130%;
+  --Text-Preset-two-m-fs: 3.4rem;
 }

@@ -46,3 +46,15 @@ main {
   padding-left: 30px;
   padding-right: 30px;
 }
+
+.btn {
+  padding: 20px 29px;
+  border: 2px solid var(--Neutral900);
+  border-radius: 8px;
+  font-family: var(--Text-Preset-Martian-mono-ff);
+  font-weight: 600;
+  font-size: var(--Text-Preset-six-fs);
+  line-height: var(--Text-Preset-one-lc);
+  color: var(--Neutral900);
+  background-color: var(--LightSalmon50);
+}
