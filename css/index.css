@@ -1,0 +1,54 @@
+@import url(./global.css);
+
+.header {
+  padding-top: 3.2rem;
+  padding-bottom: 8rem;
+}
+
+.hero {
+}
+.hero-container {
+  display: flex;
+}
+.hero-content {
+  width: 100%;
+  max-width: 570px;
+}
+.hero-title {
+  font-family: var(--Text-Preset-Martian-mono-ff);
+  background: var(--Text-Gradient);
+  -webkit-background-clip: Text;
+  -webkit-text-fill-color: transparent;
+  font-size: 6.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.hero-subtitle {
+  font-family: var(--Text-Preset-Inter-ff);
+  font-size: 2rem;
+  line-height: 1.4;
+  font-weight: 400;
+}
+.hero-btn {
+  margin-top: 3.2rem;
+  padding: 20px 64px 20px 24px;
+  border: 2px solid #062630;
+  border-radius: 8px;
+  font-family: "Martian Mono";
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 1.27;
+  color: #062630;
+}
+.hero-info {
+}
+.info-img {
+}
+.info-content {
+}
+.info-svg {
+}
+.info-stars {
+}
+.info-subtitle {
+}

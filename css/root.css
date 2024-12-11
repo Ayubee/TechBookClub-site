@@ -1,0 +1,35 @@
+:root {
+  --Text-Preset-Martian-mono-ff: "Martian Mono";
+  --Text-Preset-Inter-ff: "Inter";
+
+  --Text-Preset-lc: -2px;
+  /* colors */
+  --Neutral900: #062630;
+  --Neutral700: #385159;
+  --Neutral200: #e6e1df;
+  --Neutral100: #faf5f3;
+  --Neutral0: #ffffff;
+
+  --LightSalmon500: #fea36f;
+  --LightSalmon100: #ffe2d1;
+  --LightSalmon50: #fff5ef;
+
+  --Text-Gradient: -webkit-linear-gradient(
+    -40deg,
+    #fea36f -11.37%,
+    #062630 61.84%
+  );
+  /* colors */
+
+  --color: #062630;
+  --Text-Preset-one-fs: 6.2rem;
+  --Text-Preset-one-lh: 120%;
+  --Text-Preset-one-fw: 700;
+
+  --Text-Preset-one-m-fs: 3.8rem;
+  --Text-Preset-one-m-lh: 120%;
+  --Text-Preset-one-m-fw: 700;
+
+  --Text-Preset-two-fs: 5rem;
+  --Text-Preset-two-lh: 130%;
+}
