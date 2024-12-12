@@ -247,3 +247,37 @@
   line-height: var(--Text-Preset-130-lh);
   letter-spacing: var(--Text-Preset-one-lc);
 }
+
+.item-subtitle {
+  display: flex;
+}
+
+.option {
+}
+.option-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.option-title {
+  font-family: var(--Text-Preset-Martian-mono-ff);
+  font-weight: 600;
+  font-size: var(--Text-Preset-two-fs);
+  line-height: var(--Text-Preset-130-lh);
+}
+.option-list {
+}
+.option-item {
+  display: flex;
+}
+.item-title {
+}
+.item-subtitle {
+}
+.option-box {
+}
+.btn {
+}
+.box-subtitle {
+}
